@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on Distributed AWS Lambda Service<br><br>🌱 I’m currently learning GoLang, Distributed Systems, SpringBoot, and Kubernetes<br><br>📫 Reach me @ jt.kruthik@gmail.com<br><br>📄 Know more about me  https://www.linkedin.com/in/kruthik-jt/<br><br>💬 Ask me about [Autoscaling in Kubernetes using PID controller](https://github.com/kruthik-jt/Autoscaler_GO/tree/pidAlgo)
+🔭 I’m currently working on [Distributed AWS Lambda Service](https://github.com/pvinoda/lambda-redesign)<br><br>🌱 I’m currently learning GoLang, Distributed Systems, SpringBoot, and Kubernetes<br><br>📫 Reach me @ jt.kruthik@gmail.com<br><br>📄 Know more about me  https://www.linkedin.com/in/kruthik-jt/<br><br>💬 Ask me about [Autoscaling in Kubernetes using PID controller](https://github.com/kruthik-jt/Autoscaler_GO/tree/pidAlgo)
 
 
 ## 🌐 Socials:
